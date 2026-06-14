@@ -26,7 +26,5 @@ NumPy | Pandas | Matplotlib | Seaborn | Pyecharts
 
 ## 🚀 使用
 ```bash
-# 安装依赖
-pip install -r requirements.txt
 # 启动笔记
 jupyter notebook notebooks/retail_analysis.ipynb
